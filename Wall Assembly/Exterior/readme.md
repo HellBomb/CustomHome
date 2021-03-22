@@ -16,4 +16,5 @@ Wall Penetrations.
 
 
 For Cable Penetrations (Step 3 visual aid)
+
 ![image](https://user-images.githubusercontent.com/33955773/112022207-71317d00-8b08-11eb-91a3-deab0e366070.png)
