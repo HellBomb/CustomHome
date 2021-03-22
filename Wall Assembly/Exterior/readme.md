@@ -5,6 +5,7 @@ Wall Penetrations.
 	Exterior wall penetrations should be documented and photographed on both sides after completion.
 	Wall penetration holes will be drilled at a 45 degree angle with decline angleing towards exterior elimination chance of water infultrating wall cavatiy.
 	Both interior and exterior of wall will be installed in the following manner.
+	
 		1. Foam will be cut away from concrete allowing sealing to be done at concrete level.
 
 		2. Appropriate quickflash product will be sealed directly to the concrete using Adiseal or equivilent product.
