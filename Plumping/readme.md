@@ -3,7 +3,7 @@ Plumbing design
     
 
 **Water Heater**
-    Electric tankless water heater with 10 gallon buffer.
+    Propane hybrid tank/tankless water heater 
     
     
     
