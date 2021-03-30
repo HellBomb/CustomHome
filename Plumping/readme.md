@@ -5,7 +5,11 @@ Plumbing design
 **Water Heater**
 
     Propane hybrid tank/tankless water heater 
-    
+   
+**Incoming Water Line**
+
+   Install pressure regulator at the point where the municipal water enters the house
+   
     
 **Sewer line**
 
