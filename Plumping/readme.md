@@ -6,7 +6,9 @@ Plumbing design
     Propane hybrid tank/tankless water heater 
     
     
-    
+**Sewer line**
+    Sewer line should have check valve to prevent backflow.
+
     
 Other Resources <br />
     1. https://www.finehomebuilding.com/pdf/021192082.pdf
