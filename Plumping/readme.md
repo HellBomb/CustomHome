@@ -9,7 +9,11 @@ Plumbing design
 **Incoming Water Line**
 
    Install pressure regulator at the point where the municipal water enters the house
-   
+  
+     
+**Sink Plumbing Water Line**
+
+   All non-toilet drainage valves should utilize P-Traps with cleanout, and should utilize either a Solids Interceptor or in-line filter in combination with basket strainer.
     
 **Sewer line**
 
