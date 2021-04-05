@@ -1,7 +1,20 @@
+Wall Assembly
 
+	Exterior wall assembly should be a multi-layered setup.
+	
+	1. Concrete Wall
+
+	2. GSP 6 inch GSP insulation foam.
+
+	3. Adhesively attached WTB
+
+	4. Rainscreen
+
+	5. 
 
 
 Wall Penetrations.
+
 	Exterior wall penetrations should be documented and photographed on both sides after completion.
 	Wall penetration holes will be drilled at a 45 degree angle with decline angleing towards exterior elimination chance of water infultrating wall cavatiy.
 	Both interior and exterior of wall will be installed in the following manner.
